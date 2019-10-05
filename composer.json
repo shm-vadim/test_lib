@@ -1,0 +1,9 @@
+{
+    "name": "vsh/symfony-common",
+    "type": "library",
+"autoload": {
+ "files": [
+     "lib.php"
+ ]
+}
+    }
