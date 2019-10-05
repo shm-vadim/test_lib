@@ -1,0 +1,7 @@
+php-cs-fixer fix . && \
+git add . && \
+git clean -d -f && \
+git st && \
+git commit -m \
+'initialized repository'
+git push origin
